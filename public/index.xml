@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on My CV Website</title>
+    <link>http://localhost:64536/</link>
+    <description>Recent content in Welcome on My CV Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:64536/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic CV</title>
+      <link>http://localhost:64536/cv/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64536/cv/</guid>
+      <description>&lt;h2 id=&#34;academic-background&#34;&gt;Academic Background&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Since 2018&lt;/strong&gt; – Master of Education, Freie Universität Berlin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2014–2017&lt;/strong&gt; – Bachelor’s Degree in History and German Philology, &lt;a href=&#34;https://www.fu-berlin.de&#34;&gt;Freie Universität Berlin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt; – Abitur (German high school diploma), &lt;a href=&#34;https://www.dbg-ratingen.de/&#34;&gt;Dietrich-Bonhoeffer-Gymnasium&lt;/a&gt;, Ratingen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Russian and Soviet history in the 19th and 20th century&lt;/li&gt;&#xA;&lt;li&gt;Recent (from 1945) history of Germany&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Russian (native)&lt;/li&gt;&#xA;&lt;li&gt;German (fluent, nearly native)&lt;/li&gt;&#xA;&lt;li&gt;English (fluent)&lt;/li&gt;&#xA;&lt;li&gt;French (basic)&lt;/li&gt;&#xA;&lt;li&gt;Spanish (basic)&lt;/li&gt;&#xA;&lt;li&gt;Polish (basic)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:64536/contact/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64536/contact/</guid>
+      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;You can reach me at:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:markt@mail.de&#34;&gt;markt@mail.de&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/deinprofil&#34;&gt;My LinkedIn Profile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: +49 123 456789&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:64536/cv/&#34;&gt;Back to CV&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:64536/projects/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64536/projects/</guid>
+      <description>&lt;h1 id=&#34;selected-projects&#34;&gt;Selected Projects&lt;/h1&gt;&#xA;&lt;h2 id=&#34;digital-archive-for-soviet-posters&#34;&gt;Digital Archive for Soviet Posters&lt;/h2&gt;&#xA;&lt;p&gt;A digital humanities project that collects, categorizes, and analyzes Soviet propaganda posters from the 1920s to the 1980s.&lt;br&gt;&#xA;&lt;strong&gt;Technologies used:&lt;/strong&gt; Python, Flask, PostgreSQL, Docker&lt;br&gt;&#xA;&lt;strong&gt;Role:&lt;/strong&gt; Project Lead &amp;amp; Historian&lt;br&gt;&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Ongoing&lt;/p&gt;&#xA;&lt;h2 id=&#34;historical-podcast-echoes-of-the-east&#34;&gt;Historical Podcast: “Echoes of the East”&lt;/h2&gt;&#xA;&lt;p&gt;A bilingual podcast exploring lesser-known events in Eastern European history.&lt;br&gt;&#xA;&lt;strong&gt;Platforms:&lt;/strong&gt; Spotify, Apple Podcasts&lt;br&gt;&#xA;&lt;strong&gt;Role:&lt;/strong&gt; Co-host and Content Researcher&lt;br&gt;&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Published monthly since 2023&lt;/p&gt;&#xA;&lt;h2 id=&#34;curriculum-development-for-history-education&#34;&gt;Curriculum Development for History Education&lt;/h2&gt;&#xA;&lt;p&gt;Developed digital and interactive modules for secondary school history classes, focused on Cold War and post-war Germany.&lt;br&gt;&#xA;&lt;strong&gt;Institution:&lt;/strong&gt; Freie Universität Berlin&lt;br&gt;&#xA;&lt;strong&gt;Status:&lt;/strong&gt; Completed in 2022&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
